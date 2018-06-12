@@ -81,4 +81,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## References
 
-* https://github.com/willitscale/learning-solidity
+* Source Code - https://github.com/willitscale/learning-solidity
